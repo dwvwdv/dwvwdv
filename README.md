@@ -1,5 +1,8 @@
-### Hi there 👋
-
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=abab46abab&cn=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwvwdv&theme=vue-dark)
+---
+Blog : http://dwvwdv.tk/blog/  
+Learn Note : https://dwvwdvnote.notion.site/Learn-Note-79cc9ea9f3ee4bda99924d876ff4c592
 <!--
 **dwvwdv/dwvwdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwvwdv&layout=compact&theme=vue-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwvwdv&theme=vue-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=dwvwdv)
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=abab46abab&cn=true)
+<!--
 -->
