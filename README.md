@@ -1,5 +1,7 @@
-![LeetCode](https://stats.justsong.cn/api/leetcode?username=abab46abab&cn=true&theme=dark)
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=abab46abab&cn=true&theme=dark)  
 ---
+Learn Note : https://dwvwdvnote.notion.site/Learn-Note-79cc9ea9f3ee4bda99924d876ff4c592  
+Blog : http://dwvwdv.tk/blog/
 
 <!--
 **dwvwdv/dwvwdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
